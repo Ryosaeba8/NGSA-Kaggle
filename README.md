@@ -13,4 +13,4 @@ We trained machine learning algorithms such as
 - XGBOOST
 - Neural Network
 ## Results
-<img src="https://github.com/Ryosaeba8/NGSA-Kaggle/blob/master/result.png" width="550"/>
+<img src="https://github.com/Ryosaeba8/NGSA-Kaggle/blob/master/kaggle.png" width="550"/>
