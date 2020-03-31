@@ -1,7 +1,7 @@
 # NGSA-Kaggle
 
 Missing link prediction using :
-- node2vec emebeddings
+- node2vec embeddings
 - features ectracted from the underlying structure of the graph 
 - features extracted from the informations on the nodes
 
